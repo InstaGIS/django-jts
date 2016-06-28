@@ -1,2 +1,3 @@
-# django-jst
-Django JSON Table Schema
+# django-jts
+
+Django JSON Table Schema (JTS).
